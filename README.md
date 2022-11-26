@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Zac-hary
-- 👀 I’m interested in Python, Computer Science, Automation, Creation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on - Reach out
+New to programming/development. Looking to create useful products. 
+
+Here to learn and improve.
 
 <!---
 Zac-hary/Zac-hary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
